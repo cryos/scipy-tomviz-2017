@@ -1,0 +1,6 @@
+.reveal section img { background:none; border:none; box-shadow:none; }
+body:after {
+  content: url(../images/logo.png);
+  position: fixed;
+  bottom: 1.5em;
+  left: 2.5em; }
